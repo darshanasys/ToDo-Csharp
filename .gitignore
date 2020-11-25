@@ -1,0 +1,7 @@
+# ASP.NET binaries
+bin/
+obj/
+.vs/
+
+# NuGet packages
+packages/
