@@ -3,5 +3,3 @@ bin/
 obj/
 .vs/
 
-# NuGet packages
-packages/
